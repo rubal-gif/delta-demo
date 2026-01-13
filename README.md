@@ -1,2 +1,2 @@
 # delta-demo
-This is a delta code.
+This is a delta code for course.
